@@ -110,7 +110,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/battlefieldking/YukkiMusicBot",
+      "value": "https://github.com/battlefieldteam/YukkiMusicBot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
